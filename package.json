@@ -1,7 +1,7 @@
 {
-    "name": "xiaoai-server",
+    "name": "audio-server",
     "version": "1.0.0",
-    "description": "A KOA server kickoff framework",
+    "description": "A audio server based on KOA",
     "main": "server.js",
     "scripts": {
         "start": "node --use_strict server.js",
